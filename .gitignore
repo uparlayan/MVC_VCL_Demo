@@ -1,0 +1,12 @@
+/__history/*.~1~
+/Controllers/__history/*.~1~
+/GUI/__history/*.~1~
+/Models/__history/*.~1~
+/Views/__history/*.~1~
+/GUI/__history/*.~2~
+/Views/__history/*.~2~
+/_Compiled/DCU/*.dcu
+/_Compiled/EXE/*.exe
+/*.identcache
+/*.local
+/*.skincfg
